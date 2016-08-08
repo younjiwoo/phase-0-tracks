@@ -12,4 +12,5 @@ A good commit message should be about what a commit does, not what it did.
  Merge conflicts are when two branches cannot be sucessfully merge together because the files have been changed since the original branch was made.
  
 (small change)
- 
+
+(second change)
