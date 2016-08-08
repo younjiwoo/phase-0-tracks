@@ -14,3 +14,5 @@ A good commit message should be about what a commit does, not what it did.
 (small change)
 
 (second change)
+
+(third change)
