@@ -1,0 +1,19 @@
+img {
+    display: block;
+}
+#wrapper {
+    position: relative;
+    width: 200px;
+    height: auto;
+    margin: 10em auto 0;
+}
+img:nth-child(2) {
+    position: absolute;
+    top: -5em;
+    left: -1em
+}
+img:nth-child(3) {
+    position: absolute;
+    top: 6.2em;
+    left: 2.5em
+}
