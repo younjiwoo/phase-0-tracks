@@ -1,0 +1,19 @@
+Release 0: Equip Your New Robot
+
+1) Until doors open, stand outside elevator and stay put.
+2) if doors open, step inside elvator.
+2-1) If you are inside elevator, locate buttons panel.
+  2-1-1) Push desired floor button.
+  2-1-2) Until doors open, stand inside elevator.
+  2-1-3) Step outside elevator if doors open.
+
+
+Release 1: Find a Real-Life Algorithm
+
+1) If there are less than 10 dishes in the sink, leave them.
+2) If there are more than 10 dishes in the sink,
+  2-1) Put dish soap over sponge.
+  2-2) Scrub dishes.
+  2-3) Stack them.
+  2-4) Rinse dishes.
+  2-5) Dry dishes.
