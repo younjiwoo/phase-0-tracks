@@ -13,12 +13,16 @@ good_candidate = gets.chomp
 
 valid_input = false
 puts "Estimated age?"
+estimated_age = gets.chomp
+
 until valid_input 
-	estimated_age = gets.chomp 
 	if estimated_age == "" 
 		estimated_age = nil
 		valid_input = true
+	else estimated_age.to_i
+		valid_input = true
 	end
+
 end
 
 
